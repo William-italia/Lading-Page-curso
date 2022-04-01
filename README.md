@@ -1,1 +1,1 @@
-# Lading-Page-curso
+# Landing-Page-curso
